@@ -1,1 +1,1 @@
-Tein kaikki perusominaisuudet + Firebase-integraatio ja Käyttäjäprofiili
+Tein kaikki perusominaisuudet + Firebase-integraatio
